@@ -8,7 +8,7 @@ Main class: Client.java
 # Monopoly
 The game takes in the already widely popular game, taking it's elements, and twisting it in some aspects to make it our own. 
 
-![ScreenShot](monopolyBoardDone.png)
+![ScreenShot](T9-master 14/monopolyBoardDone.png)
 
 
 ## Features
